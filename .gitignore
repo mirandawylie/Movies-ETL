@@ -1,3 +1,11 @@
+#M's files to ignore
+starter_code/
+config.py
+Pre-work/
+data/movies_metadata.csv
+data/ratings.csv
+data/wikipedia-movies.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
